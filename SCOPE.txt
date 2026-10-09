@@ -1,0 +1,6 @@
+Company count: 100
+Categories: Engineering, Business Analysis, Project Management
+Location: India-only results when India location can be detected
+Seniority: Explicit senior-level titles excluded
+Outputs: dated PDF with clickable job links, CSV, SQLite history
+Note: generic crawler; complete coverage is not guaranteed on JS-heavy or restricted sites.
